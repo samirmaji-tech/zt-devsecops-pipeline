@@ -60,7 +60,3 @@ This was a collaborative group project. Breakdown of individual contributions:
 - Application and container development (`app/`, `build/`) — building and containerizing the application layer
 - Co-developed the OPA policy-as-code rules (`policy/`)
 
-## Notes
-
-- `devopslabcloud-AI` appears in the commit history as a shared lab/automation account used during development.
-- This repo is a full-history mirror of the original project repository, preserved for portfolio purposes.
