@@ -35,18 +35,6 @@ security/            → Security scanning configuration
 tests/audit/         → Audit and compliance tests
 ```
 
-## Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/samirmaji-tech/zt-devsecops-pipeline.git
-cd zt-devsecops-pipeline
-
-# [Add your actual setup/run instructions here, e.g.:]
-# make build
-# make test
-```
-
 ## Contributions
 
 This was a collaborative group project. Breakdown of individual contributions:
