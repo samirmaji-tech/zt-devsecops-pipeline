@@ -13,6 +13,11 @@ This project implements a DevSecOps pipeline that enforces security controls at 
 - **Infrastructure as Code** — Terraform-managed infrastructure with security guardrails baked in
 - **CI automation** — GitHub Actions workflows that run security checks, tests, and audits on every change
 
+## Architecture Diagram
+
+![Zero-Trust DevSecOps Pipeline Architecture](docs/architecture/zero-trust-devsecops-architecture.png)
+
+
 ## Tech Stack
 
 - **CI/CD:** GitHub Actions
